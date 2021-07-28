@@ -1,0 +1,8 @@
+C:\Users\aleks\AppData\Local\Temporary Projects\QR writer\bin\Release\QR writer.exe
+C:\Users\aleks\AppData\Local\Temporary Projects\QR writer\bin\Release\QR writer.pdb
+C:\Users\aleks\AppData\Local\Temporary Projects\QR writer\bin\Release\OnBarcode.Barcode.ASPNET.dll
+C:\Users\aleks\AppData\Local\Temporary Projects\QR writer\obj\x86\Release\QR_writer.Form1.resources
+C:\Users\aleks\AppData\Local\Temporary Projects\QR writer\obj\x86\Release\QR_writer.Properties.Resources.resources
+C:\Users\aleks\AppData\Local\Temporary Projects\QR writer\obj\x86\Release\QR writer.csproj.GenerateResource.Cache
+C:\Users\aleks\AppData\Local\Temporary Projects\QR writer\obj\x86\Release\QR writer.exe
+C:\Users\aleks\AppData\Local\Temporary Projects\QR writer\obj\x86\Release\QR writer.pdb
